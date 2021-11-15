@@ -1,1 +1,1 @@
-### This repo contains codes and lessons that I myself learned from Sabastian Raschka's course called "Introduction to Deep Learning and generative models". This is the [slides](https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/)
+- [Slides](https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/)
